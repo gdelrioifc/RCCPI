@@ -1,7 +1,7 @@
 # CodesRCCPI
-<h2>This directory contains the Java files required to identify peptides that match protein-protein interfaces.</h2>
+<h2>This directory contains the Java files required to identify regions (peptides) that are relevant for protein-protein interactions.</h2>
 
-<p>There are two types of files in this dir: java and jar files. The first ones you'll need them to compile an executable Java file; the second ones you'll need to compile and execute the Java file as explained below.</p>
+<p>There are two types of files in this dir: java and jar files. You'll need both of them to compile an execute the Java files as explained below.</p>
 
 <p>After downloading all these files in your computer, go to the location where you save the files and type in your terminal:</p>
 
