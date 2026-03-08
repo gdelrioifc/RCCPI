@@ -1,5 +1,5 @@
 # RCCPI
-<h2>Supplementary material for "Residue Cluster Classes Efficiently Identify Protein Interfaces and Interactions"</h2>
+<h2>Supplementary material for "Protein Interactions with Small Molecules, Peptides and Proteins share Residue Cluster Classes"</h2>
 
 This site contains the <a href="https://github.com/gdelrioifc/RCCPI/tree/main/Train">training</a> and <a href="https://github.com/gdelrioifc/RCCPI/tree/main/Test">testing</a> datasets used to evaluate Residue Cluster Classes (RCC) vectors in classifying true and false protein-peptide interactions (PpI). To do so, the RCC vector for each pair of peptide and protein three-dimensional structures was derived as previosuly reported <a href="https://pubmed.ncbi.nlm.nih.gov/33286246/">(Fontove F and Del Rio G, 2020)</a>, and the vectors were summed or concatenated to generate a single vector to represent a PpI. Twentyfour datasets were used to generate twentyfour Weka models that are available at the <a href="https://github.com/gdelrioifc/RCCPI/tree/main/Models">Models</a> directory.
 
